@@ -18,11 +18,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my 3rd year of Computer Science at USF
 - 🌱 I’m currently learning about algorithms and databases
-- 💬 Ask me about ...
 - 📫 How to reach me: 
-  - LinkedIn: [insert]
+  - LinkedIn: https://www.linkedin.com/in/erika-s-17a29a1ba/
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I like to play video games and I think Orca Whales are cool.
 
 [![Erika's github stats](https://github-readme-stats.vercel.app/api?username=riksu5&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
