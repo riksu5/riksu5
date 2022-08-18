@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working on my 3rd year of Computer Science at USF
+- 🌱 I’m currently learning about algorithms and databases
+- 💬 Ask me about ...
+- 📫 How to reach me: 
+  - LinkedIn: [insert]
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: ...
+
+[![Erika's github stats](https://github-readme-stats.vercel.app/api?username=riksu5&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riksu5)](https://github.com/anuraghazra/github-readme-stats)
